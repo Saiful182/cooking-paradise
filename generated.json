@@ -1,0 +1,131 @@
+[
+  {
+    "name": "Bangali",
+    "img": "./public/images/food/bangali.jpg",
+    "price": 12000,
+    "totalEnrolled": 488,
+    "ratting": 5,
+    "happyStudent": {
+      "name": "Saiful",
+      "img": "./public/images/User/1.jpg ",
+      "comment": "This is where i got training. They have some greate instractor"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Indian",
+    "img": "./public/images/food/indian.jpg ",
+    "price": 10000,
+    "totalEnrolled": 228,
+    "ratting": 3,
+    "happyStudent": {
+      "name": "Bimal",
+      "img": "./public/images/User/2.jpg ",
+      "comment": "this is where i got training. They have some greate instractor"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Japnai",
+    "img": "./public/images/food/japani.jpg ",
+    "price": 120011,
+    "totalEnrolled": 4883,
+    "ratting": 5,
+    "happyStudent": {
+      "name": "Xiomo",
+      "img": "./public/images/User/3.jpg ",
+      "comment": "this is where i got training. They have some greate instractor"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Thai",
+    "img": "./public/images/food/thai.jpg ",
+    "price": 120020,
+    "totalEnrolled": 4818,
+    "ratting": 3,
+    "happyStudent": {
+      "name": "Pchshaha",
+      "img": "./public/images/User/4.jpg ",
+      "comment": "this is where i got training. They have some greate instractor"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Chinese",
+    "img": "./public/images/food/chinese.jpg",
+    "price": 12100,
+    "totalEnrolled": 428,
+    "ratting": 5,
+    "happyStudent": {
+      "name": "Chikopo",
+      "img": "./public/images/User/5.jpg",
+      "comment": "this is where i got training. They have some greate instractor"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Spaish",
+    "img": " ./public/images/food/spanish.jpg",
+    "price": 120020,
+    "totalEnrolled": 4818,
+    "ratting": 4,
+    "happyStudent": {
+      "name": "dbfjhdf",
+      "img": " ./public/images/User/6.jpg",
+      "comment": "this is where i got training. They have some greate instractor"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Maxican",
+    "img": "./public/images/food/maxican.jpg ",
+    "price": 12100,
+    "totalEnrolled": 448,
+    "ratting": 5,
+    "happyStudent": {
+      "name": "johir",
+      "img": "./public/images/User/7.jpg ",
+      "comment": "this is where i got training. They have some greate instractor"
+    }
+  },
+  {
+    "id": 8,
+    "name": "French",
+    "img": "./public/images/food/french.jpg ",
+    "price": 120040,
+    "totalEnrolled": 4588,
+    "ratting": 3,
+    "happyStudent": {
+      "name": "Moyna",
+      "img": "./public/images/User/8.jpg ",
+      "comment": "this is where i got training. They have some greate instractor"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Italian",
+    "img": "./public/images/food/italian.jpg ",
+    "price": 120010,
+    "totalEnrolled": 1488,
+    "ratting": 5,
+    "happyStudent": {
+      "name": "Tiya",
+      "img": "./public/images/User/9.jpg ",
+      "comment": "this is where i got training. They have some greate instractor"
+    }
+  },
+  {
+    "id": 10,
+    "name": "German",
+    "img": "./public/images/food/german.jpg ",
+    "price": 120080,
+    "totalEnrolled": 4828,
+    "ratting": 5,
+    "happyStudent": {
+      "name": "Bulbul",
+      "img": "./public/images/User/10.jpg ",
+      "comment": "this is where i got training. They have some greate instractor"
+    }
+  }
+]
