@@ -1,0 +1,12 @@
+.service-container{
+
+    margin: 10px 5px 5px 10px;
+    display: grid;
+    grid-template-columns: repeat(3 ,1fr  );
+}
+.card-img{
+    height: 50px;
+    width: 25%;
+    border-radius: 5px;
+    text-align: center;
+}
