@@ -17,23 +17,34 @@ const MainSection = () => {
     const fourServices = services.slice(0, 4);
 
     return (
-        <div className="main-section">
+        <div >
 
-            <Container>
-                <Row>
-                    <Col>{
-                        fourServices.map(service => <TopServices service={service} key={service.id}>
+            <div className="main-section">
+                <div>
+                    <h3>Our top selling Courses</h3>
+                    <div className="top-services">
 
-                        </TopServices>)
-                    }</Col>
-                    <Col>{
-                        fourServices.map(service =>
-                            <HappyFaces service={service.happyFaces} key={service.id}>
-                            </HappyFaces>)}</Col>
-                </Row>
+                        {
+                            fourServices.map(service => <TopServices service={service} key={service.id}>
+                            </TopServices>)
+                        }
+                    </div>
+                </div>
+                <div>
+                    <h4>They Became success with our help</h4>
+                    <div className="happy-Faces">
+                        {
+                            fourServices.map(service =>
+                                < HappyFaces service={service} key={service.id} >
+                                </HappyFaces>)}
+                    </div>
 
-            </Container>
-        </div>
+                </div>
+
+
+
+            </div>
+        </div >
     );
 
 };

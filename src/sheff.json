@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Gordon Ramsay",
+        "img": "./images/Sheff/Gordon Ramsay.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Thomas Keller",
+        "img": "./images/Sheff/Thomas Keller.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Wolfgang Puck",
+        "img": "./images/Sheff/Wolfgang Puck.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Alain Ducasse",
+        "img": "./images/Sheff/Alain Ducasse.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Yannick Alleno",
+        "img": "./images/Sheff/Yannick Alleno.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Anne-Sophie.",
+        "img": "./images/Sheff/Anne-Sophie.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Heinz Beck",
+        "img": "./images/Sheff/Heinz Beck.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Pierre Gagnaire",
+        "img": "./images/Sheff/Pierre-Gagnaire.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Martin Berasategui",
+        "img": "./images/Sheff/Martin Berasategui.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Carme Ruscalleda",
+        "img": "./images/Sheff/Carme Ruscalleda.jpg"
+    }
+]

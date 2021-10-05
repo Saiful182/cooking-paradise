@@ -1,0 +1,11 @@
+.instractor-image{
+    height: 200px;
+    width: 100%;
+}
+.card-class{
+    height: 300px;
+    width: 400px;
+    margin: 20px auto;
+    border-radius: 10px;
+
+}

@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Gordon Ramsay",
+        "position": "Course Instractor",
+        "img": "./images/Sheff/Gordon Ramsay.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Thomas Keller",
+        "position": "Course Instractor",
+        "img": "./images/Sheff/Thomas Keller.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Wolfgang Puck",
+        "position": "Course Instractor",
+        "img": "./images/Sheff/Wolfgang Puck.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Alain Ducasse",
+        "position": "Course Instractor",
+        "img": "./images/Sheff/Alain Ducasse.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Yannick Alleno",
+        "position": "Course Instractor",
+        "img": "./images/Sheff/Yannick Alleno.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Anne-Sophie.",
+        "position": "Course Instractor",
+        "img": "./images/Sheff/Anne-Sophie.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Heinz Beck",
+        "position": "Course Instractor",
+        "img": "./images/Sheff/Heinz Beck.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Pierre Gagnaire",
+        "position": "Course Instractor",
+        "img": "./images/Sheff/Pierre-Gagnaire.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Martin Berasategui",
+        "position": "Course Instractor",
+        "img": "./images/Sheff/Martin Berasategui.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Carme Ruscalleda",
+        "position": "Course Instractor",
+        "img": "./images/Sheff/Carme Ruscalleda.jpg"
+    }
+]

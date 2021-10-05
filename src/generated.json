@@ -6,9 +6,10 @@
     "price": 12000,
     "totalEnrolled": 488,
     "ratting": 5,
+    "comment": "The cuisine of Bengal is as rich and distinct as the state itself. The rule of Nawabs has deeply influenced Bengali food which is a combination of subtle and fiery flavours. ",
     "happyStudent": {
       "name": "Saiful",
-      "img": "./public/images/User/1.jpg ",
+      "img": "./images/User/1.jpg",
       "comment": "This is where i got training. They have some greate instractor"
     }
   },
@@ -19,6 +20,7 @@
     "price": 10000,
     "totalEnrolled": 228,
     "ratting": 3,
+    "comment": "Indian food, not unlike any other country’s national food scene, is a vast constellation of culinary influences and traditions from all over the Asian continent ",
     "happyStudent": {
       "name": "Bimal",
       "img": "./public/images/User/2.jpg ",
@@ -32,6 +34,7 @@
     "price": 120011,
     "totalEnrolled": 4883,
     "ratting": 5,
+    "comment": "When visiting Japan, you'll, of course, want to taste Japanese cuisine. There are many types of dishes and local specialties you can choose from, but if we were to pick up ten traditional dishes that we highly recommend ",
     "happyStudent": {
       "name": "Xiomo",
       "img": "./public/images/User/3.jpg ",
@@ -45,6 +48,7 @@
     "price": 120020,
     "totalEnrolled": 4818,
     "ratting": 3,
+    "comment": " Thai food, as a popular international cuisine, distinguishes itself by its freshness, exotic fragrance, and extravagant spices. The best Thai food includes pad Thai and Thai fried rice.",
     "happyStudent": {
       "name": "Pchshaha",
       "img": "./public/images/User/4.jpg ",
@@ -58,6 +62,7 @@
     "price": 12100,
     "totalEnrolled": 428,
     "ratting": 5,
+    "comment": "Chinese cuisine is an important part of Chinese culture and includes cuisines originating from the diverse regions of China as well as from Overseas Chinese who have settled  ",
     "happyStudent": {
       "name": "Chikopo",
       "img": "./public/images/User/5.jpg",
@@ -71,6 +76,7 @@
     "price": 120020,
     "totalEnrolled": 4818,
     "ratting": 4,
+    "comment": " Spain is famous as one of the best food and wine destinations in the World. That being said, traveling to Spain meant for me getting familiar with the food culture of Spain: eating traditional ",
     "happyStudent": {
       "name": "dbfjhdf",
       "img": " ./public/images/User/6.jpg",
@@ -80,23 +86,25 @@
   {
     "id": 7,
     "name": "Maxican",
-    "img": "./public/images/food/maxican.jpg ",
+    "img": "./public/images/food/mexican.jpg",
     "price": 12100,
     "totalEnrolled": 448,
     "ratting": 5,
+    "comment": "Mexican cuisine consists of the cooking cuisines and traditions of the modern country of Mexico. Its roots lie in Mesoamerican cuisine. Its ingredients and methods begin with the first agricultural communities ",
     "happyStudent": {
       "name": "johir",
-      "img": "./public/images/User/7.jpg ",
+      "img": "./public/images/User/7.jpg",
       "comment": "this is where i got training. They have some greate instractor"
     }
   },
   {
     "id": 8,
     "name": "French",
-    "img": "./public/images/food/french.jpg ",
+    "img": "./public/images/food/french.jpg",
     "price": 120040,
     "totalEnrolled": 4588,
     "ratting": 3,
+    "comment": " For many, French cuisine is virtually synonymous with gastronomy. French food boasts a rich and sweeping culinary history that includes rustic home cooking, elaborate court-dining masterpieces.",
     "happyStudent": {
       "name": "Moyna",
       "img": "./public/images/User/8.jpg ",
@@ -110,6 +118,7 @@
     "price": 120010,
     "totalEnrolled": 1488,
     "ratting": 5,
+    "comment": "  Italian cuisine has developed through centuries of social and political changes, with roots as far back as the 4th century BC. Italian cuisine has its origins in Etruscan, ancient Greek, and ancient Roman cuisines. ",
     "happyStudent": {
       "name": "Tiya",
       "img": "./public/images/User/9.jpg ",
@@ -123,9 +132,10 @@
     "price": 120080,
     "totalEnrolled": 4828,
     "ratting": 5,
+    "comment": "German traditional food and drink is almost certainly more exciting than most new residents and visitors expect it to be. Whilst there are regional variations in food culture ",
     "happyStudent": {
       "name": "Bulbul",
-      "img": "./public/images/User/10.jpg ",
+      "img": "./public/images/User/10.jpg",
       "comment": "this is where i got training. They have some greate instractor"
     }
   }

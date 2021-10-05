@@ -1,3 +1,10 @@
 .card-image{
     height: 300px;
 }
+.card-comment{
+    
+    text-align: justify;
+    font-size: 15px;
+padding: 5px;
+height: 90px;
+}

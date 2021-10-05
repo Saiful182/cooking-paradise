@@ -1,4 +1,6 @@
-.service-container{
-    display: grid;
-    grid-template-columns: repeat(2,2fr);
+.card-comment{
+    font-size: 15px;
+    padding: 5px;
+    height: 90px;
+    width: 80%;
 }

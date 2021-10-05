@@ -8,6 +8,7 @@ import Home from './component/Home/Home';
 import Instractors from './component/Instractors/Instractors';
 import Service from './component/Service/Service';
 import './generated.json';
+import Footer from './component/Footer/Footter';
 
 
 
@@ -21,10 +22,10 @@ function App() {
         <Header></Header>
         <Switch>
           <Route exact path="/home">
-            <Home ></Home>)
+            <Home ></Home>
           </Route>
           <Route exact path="/">
-            <Home ></Home>)
+            <Home ></Home>
           </Route>
           <Route path="/service">
             <Service></Service>
@@ -39,6 +40,7 @@ function App() {
             <NotFound></NotFound>
           </Route>
         </Switch>
+        <Footer></Footer>
       </BrowserRouter>
     </div>
   );

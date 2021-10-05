@@ -1,11 +1,25 @@
 import React from 'react';
+import { Card } from 'react-bootstrap';
 import './HappyFaces.css'
 
-const HappyFaces = () => {
-    return (
-        <div className="happay-faces">
-            <h4>shobai hasbe </h4>
 
+const HappyFaces = (props) => {
+
+    const { happyStudent } = props.service;
+    return (
+
+        <div >
+            <Card style={{ width: '18rem' }}>
+
+                <Card.Body>
+                    <Card.Title>{happyStudent.name}</Card.Title>
+                    <Card.Img className="student-image" variant="top" src={happyStudent.img} />
+                    <Card.Text>
+                        {happyStudent.comment}
+                    </Card.Text>
+
+                </Card.Body>
+            </Card>
         </div>
     );
 };

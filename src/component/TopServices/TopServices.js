@@ -4,19 +4,22 @@ import './TopService.css'
 
 const TopServices = (props) => {
 
-    const { name, img, price, totalEnrooled, ratting } = props.service;
+    const { name, img, price, totalEnrolled, comment, ratting } = props.service;
     return (
-        <div className="service-container">
+        <div>
 
-            <Card style={{ width: '18rem' }}>
-                <Card.Img variant="top" src={img} />
+            <Card>
+                <Card.Img className="card-image" variant="top" src={img} />
                 <Card.Body>
                     <Card.Title>{name}</Card.Title>
-                    <Card.Text>
-
+                    <Card.Text className="card-comment">{comment}
                     </Card.Text>
-                    <Button variant="primary">Go somewhere</Button>
+                    <Card.Text> Total Enrolled: {totalEnrolled}</Card.Text>
+                    <Card.Text>Rating: {ratting}</Card.Text>
+                    <Card.Text> Course Price: {price}$</Card.Text>
                 </Card.Body>
+                <Button variant="primary" href="/service">Click to Enroll</Button>
+
             </Card>
         </div>
     );
