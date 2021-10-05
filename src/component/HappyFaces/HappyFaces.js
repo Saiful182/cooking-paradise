@@ -9,7 +9,7 @@ const HappyFaces = (props) => {
     return (
 
         <div >
-            <Card style={{ width: '18rem' }}>
+            <Card >
 
                 <Card.Body>
                     <Card.Title>{happyStudent.name}</Card.Title>

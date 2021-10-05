@@ -5,8 +5,9 @@ const Home = (props) => {
 
     return (
         <div>
-            <Slider></Slider>
+
             <MainSection></MainSection>
+            <Slider></Slider>
         </div>
     );
 };

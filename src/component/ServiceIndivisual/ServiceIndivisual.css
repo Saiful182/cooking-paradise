@@ -1,10 +1,17 @@
+.single-card-container{
+    padding: 10px;
+    border-radius: 10px;
+}
 .card-image{
-    height: 300px;
+    height: 250px;
 }
 .card-comment{
-    
     text-align: justify;
     font-size: 15px;
-padding: 5px;
 height: 90px;
+}
+.card-textt{
+    margin-top: 30px;
+    font-size: 15px;
+    line-height: 6px;
 }

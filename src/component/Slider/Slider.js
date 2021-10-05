@@ -1,5 +1,5 @@
 import React from 'react';
-import './Slider.css'
+import './Slider.css';
 import { Carousel } from 'react-bootstrap';
 import image2 from '../../carousel/2.jpg';
 import image1 from '../../carousel/1.jpg';
@@ -15,12 +15,10 @@ const Slider = () => {
                     <h5>Gordon Ramsay</h5>
                     <p className="carousel-text">“So when people ask me, ‘What do you think of Michelin?’ I don’t cook for guides. I cook for customers.”</p>
                     <img
-                        className="img-fluid w-80"
+                        className="slider-img   w-80"
                         src={image1}
                         alt="First slide"
-                        style={{
-                            height: '500px'
-                        }}
+
                     />
 
                 </Carousel.Item>
@@ -28,12 +26,10 @@ const Slider = () => {
                     <h5>Craig Claiborne</h5>
                     <p>Cooking is at once child’s play and adult joy. And cooking done with care is an act of love."</p>
                     <img
-                        className="img-fluid w-80"
+                        className=" slider-img   w-80"
                         src={image2}
                         alt="Second slide"
-                        style={{
-                            height: '500px'
-                        }}
+
                     />
 
                 </Carousel.Item>
@@ -41,12 +37,9 @@ const Slider = () => {
                     <h5>Paul Theroux</h5>
                     <p>"Cooking requires confident guesswork and improvisation—experimentation and substitution, dealing with failure and uncertainty in a creative way."</p>
                     <img
-                        className="img-fluid w-80"
+                        className="slider-img   w-80"
                         src={image3}
                         alt="Third slide"
-                        style={{
-                            height: '500px'
-                        }}
                     />
 
                 </Carousel.Item>

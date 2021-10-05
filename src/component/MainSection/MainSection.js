@@ -1,6 +1,6 @@
-import { contains } from 'dom-helpers';
+
 import React, { useEffect, useState } from 'react';
-import { Col, Container, Row } from 'react-bootstrap';
+
 import HappyFaces from '../HappyFaces/HappyFaces';
 import TopServices from '../TopServices/TopServices';
 import './MainSection.css';
@@ -20,7 +20,7 @@ const MainSection = () => {
         <div >
 
             <div className="main-section">
-                <div>
+                <div className="top-services-container">
                     <h3>Our top selling Courses</h3>
                     <div className="top-services">
 
@@ -30,7 +30,7 @@ const MainSection = () => {
                         }
                     </div>
                 </div>
-                <div>
+                <div className="happy-face-container">
                     <h4>They became success with our help</h4>
                     <div className="happy-Faces">
                         {

@@ -1,6 +1,6 @@
 import './App.css';
 import Header from './component/Header/Header';
-import { NotFound } from 'http-errors';
+import NotFound from './component/NotFound/NotFound';
 
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import About from './component/About/About';
@@ -27,13 +27,13 @@ function App() {
           <Route exact path="/">
             <Home ></Home>
           </Route>
-          <Route path="/service">
+          <Route exact path="/service">
             <Service></Service>
           </Route>
-          <Route path="/instractors">
+          <Route exact path="/instractors">
             <Instractors></Instractors>
           </Route>
-          <Route path="/about">
+          <Route exact path="/about">
             <About></About>
           </Route>
           <Route path="*">
