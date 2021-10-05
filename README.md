@@ -1,5 +1,5 @@
 # Live site link
-https://heuristic-cori-dac076.netlify.app/home
+https://blissful-brahmagupta-2b16eb.netlify.app/instractors
 
 ## Site made for
 this site is made for cooking lover who wants to grow their skills in cooking.
