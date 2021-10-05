@@ -1,0 +1,14 @@
+.paragraph-text{
+    margin: 20px 20px ;
+    font-weight: bold;
+    font-size: larger;
+    padding: 30px;
+}
+.input-area{
+    width: 50%;
+    margin: auto;
+}
+.input-button{
+    margin-top: 10px;
+    padding: 10px;
+}
