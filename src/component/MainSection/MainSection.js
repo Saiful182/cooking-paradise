@@ -31,7 +31,7 @@ const MainSection = () => {
                     </div>
                 </div>
                 <div className="happy-face-container">
-                    <h4>They became success with our help</h4>
+                    <h4 cla>They became success with our help</h4>
                     <div className="happy-Faces">
                         {
                             fourServices.map(service =>

@@ -14,7 +14,7 @@ const Instractors = () => {
 
     }, [])
     return (
-        <div>
+        <div className="instractor-container">
             <div className="founder-card">
                 <Card style={{ width: '18rem' }}>
                     <Card.Img variant="top" src={image} />
@@ -27,7 +27,7 @@ const Instractors = () => {
                     </Card.Body>
                 </Card>
             </div>
-            <Row xs={2} md={3} className="g-4">
+            <Row xs={1} sm={2} md={3} className="instractor-regular g-2">
 
                 {
                     intractors.map(instractor =>

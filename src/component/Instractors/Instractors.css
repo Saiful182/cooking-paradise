@@ -1,8 +1,17 @@
+.instractor-container{
+   background-color: rgb(241, 236, 228);
+   padding: 20px;
+}
 .founder-card{
    display: grid;
    justify-content: center;
    margin: 20px;
-   
-  
-   
+   border-radius: 10px;
 }
+.instractor-regular{
+   border-radius: 10px;
+   margin: auto;
+
+   }
+
+

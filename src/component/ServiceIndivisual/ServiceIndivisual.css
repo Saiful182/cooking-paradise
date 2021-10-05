@@ -15,3 +15,11 @@ height: 90px;
     font-size: 15px;
     line-height: 6px;
 }
+@media only screen and (max-width: 1024px){
+    .card-comment,.card-textt{
+       
+    }
+}
+@media only screen and (max-width: 600px){
+
+}
